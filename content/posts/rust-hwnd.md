@@ -1,5 +1,6 @@
 ---
 title: rust 操作 hwnd
+tags: ["rust", "windows"]
 date: 2024-10-16
 ---
 

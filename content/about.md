@@ -2,7 +2,6 @@
 ---
 title: About
 data: 2024-10-15
-mermaid: true
 ---
 
 一个喜欢技术,折腾技术的新生代农民工

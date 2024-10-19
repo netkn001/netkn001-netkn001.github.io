@@ -1,6 +1,6 @@
 ---
 title: 关于内存序，做个小记
-date: 2014-10-19
+date: 2024-10-19
 tags: ["rust", "system"]
 ---
 
